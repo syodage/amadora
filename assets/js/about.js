@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('.user-intro h6').removeClass('hidden');
+  $('.user-intro h5').removeClass('hidden');
   $("#js-rotating").Morphext({
     animation: "zoomIn",
     separator: ",",
